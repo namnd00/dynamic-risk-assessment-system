@@ -1,0 +1,1 @@
+*/10 * * * * /home/ubuntu/miniconda3/envs/starter-file/bin/python /home/ubuntu/udacity/dynamic-risk-assessment-system/fullprocess.py >> /home/ubuntu/udacity/dynamic-risk-assessment-system/info.log 2>&1
